@@ -47,3 +47,6 @@ Licensing Strategy: Helps in identifying high-performing content regions and gen
 Portfolio Management: Supports content acquisition and diversity goals
 
 Audience Targeting: Assists in tailoring regional content strategies
+
+#Screenshot
+https://github.com/SaketTommundrum/Netflix-Dashboard/blob/main/Netflix%20Dashboard.png
