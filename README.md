@@ -2,10 +2,10 @@
 
 Netflix Insights Dashboard: Global Content Trends & Performance Analysis
 
-# Short Description / Purpose
+## Short Description / Purpose
 This Power BI dashboard explores global Netflix content trends across genres, formats, and regions. It helps users identify patterns in content additions, regional preferences, and year-over-year performance metrics.
 
-# Tech Stack
+## Tech Stack
 The dashboard was built using the following tools and technologies:
 
 • Power BI Desktop – For interactive data visualization
@@ -18,17 +18,17 @@ The dashboard was built using the following tools and technologies:
 
 • File Format – .pbix for development 
 
-# Data Source
+## Data Source
 Source: https://www.kaggle.com/datasets/shivamb/netflix-shows
 Public Netflix titles dataset avaialble on kaggle. It includes metadata such as title type, release year, genre, country, and date
 
-# Features / Highlights
+## Features / Highlights
 With Netflix expanding globally, understanding viewer content trends and regional catalog performance is crucial for content strategy and licensing decisions.
 
-## Goal of the Dashboard
+### Goal of the Dashboard
 To provide a visual analytics tool that enables stakeholders to: Compare content growth YoY, Analyze top genres and countries, Track progress against content targets
 
-## Walkthrough of Key Visuals
+### Walkthrough of Key Visuals
 
 KPI Cards: Show movies and TV shows added with goals and growth percentages
 
@@ -40,7 +40,7 @@ Top 5 Genres: Highlights leading content types with historical comparison
 
 Top 10 Countries: Shows where most Netflix content is produced
 
-## Business Impact & Insights
+### Business Impact & Insights
 
 Licensing Strategy: Helps in identifying high-performing content regions and genres
 
