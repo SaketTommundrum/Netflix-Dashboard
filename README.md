@@ -8,10 +8,14 @@ This Power BI dashboard explores global Netflix content trends across genres, fo
 # Tech Stack
 The dashboard was built using the following tools and technologies:
 • Power BI Desktop – For interactive data visualization
+
 • Power Query – For data transformation and modeling
+
 • DAX – For calculated KPIs and dynamic measures
+
 • Excel & Python – For data cleaning, transformation, and feature engineering
-• File Format – .pbix for development and .png for presentation
+
+• File Format – .pbix for development 
 
 # Data Source
 Source: Public Netflix titles dataset including metadata such as title type, release year, genre, country, and date added.
