@@ -19,8 +19,8 @@ The dashboard was built using the following tools and technologies:
 • File Format – .pbix for development 
 
 # Data Source
-Source: Public Netflix titles dataset including metadata such as title type, release year, genre, country, and date added.
-Data was structured using Excel and Python scripts to clean, reshape, and engineer features prior to import.
+Source: https://www.kaggle.com/datasets/shivamb/netflix-shows
+Public Netflix titles dataset avaialble on kaggle. It includes metadata such as title type, release year, genre, country, and date
 
 # Features / Highlights
 With Netflix expanding globally, understanding viewer content trends and regional catalog performance is crucial for content strategy and licensing decisions.
