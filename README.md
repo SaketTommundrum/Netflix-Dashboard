@@ -23,7 +23,6 @@ Source: Public Netflix titles dataset including metadata such as title type, rel
 Data was structured using Excel and Python scripts to clean, reshape, and engineer features prior to import.
 
 # Features / Highlights
-Business Problem: 
 With Netflix expanding globally, understanding viewer content trends and regional catalog performance is crucial for content strategy and licensing decisions.
 
 ## Goal of the Dashboard
