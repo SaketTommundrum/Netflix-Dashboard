@@ -48,4 +48,4 @@ Portfolio Management: Supports content acquisition and diversity goals
 
 Audience Targeting: Assists in tailoring regional content strategies
 
-![Netflix-Dashboard].(https://github.com/SaketTommundrum/Netflix-Dashboard/blob/main/Netflix%20Dashboard.png)
+![Netflix-Dashboard](https://github.com/SaketTommundrum/Netflix-Dashboard/blob/main/Netflix%20Dashboard.png)
