@@ -27,13 +27,7 @@ Business Problem:
 With Netflix expanding globally, understanding viewer content trends and regional catalog performance is crucial for content strategy and licensing decisions.
 
 ## Goal of the Dashboard
-To provide a visual analytics tool that enables stakeholders to:
-
-Compare content growth YoY
-
-Analyze top genres and countries
-
-Track progress against content targets
+To provide a visual analytics tool that enables stakeholders to: Compare content growth YoY, Analyze top genres and countries, Track progress against content targets
 
 ## Walkthrough of Key Visuals
 
