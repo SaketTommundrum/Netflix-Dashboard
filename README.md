@@ -7,6 +7,7 @@ This Power BI dashboard explores global Netflix content trends across genres, fo
 
 # Tech Stack
 The dashboard was built using the following tools and technologies:
+
 • Power BI Desktop – For interactive data visualization
 
 • Power Query – For data transformation and modeling
