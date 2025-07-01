@@ -26,7 +26,7 @@ Data was structured using Excel and Python scripts to clean, reshape, and engine
 Business Problem: 
 With Netflix expanding globally, understanding viewer content trends and regional catalog performance is crucial for content strategy and licensing decisions.
 
-# Goal of the Dashboard
+## Goal of the Dashboard
 To provide a visual analytics tool that enables stakeholders to:
 
 Compare content growth YoY
@@ -35,7 +35,7 @@ Analyze top genres and countries
 
 Track progress against content targets
 
-# Walkthrough of Key Visuals
+## Walkthrough of Key Visuals
 
 KPI Cards: Show movies and TV shows added with goals and growth percentages
 
@@ -47,7 +47,7 @@ Top 5 Genres: Highlights leading content types with historical comparison
 
 Top 10 Countries: Shows where most Netflix content is produced
 
-# Business Impact & Insights
+## Business Impact & Insights
 
 Licensing Strategy: Helps in identifying high-performing content regions and genres
 
